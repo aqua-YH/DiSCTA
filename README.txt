@@ -1,1 +1,0 @@
-The code for the paper “Disrupting Multi-Task Semantic Coordination: A Diffusion-Based Cross-Task Attack for Fooling Unified Vision-Language Models” will be released soon.
